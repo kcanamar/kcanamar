@@ -18,7 +18,7 @@ Languages: JavaScript | Python | HTML | CSS
 
 FrontEnd: React.JS | Next.JS | styled-components
 
-BackEnd: Express.js | Django 
+BackEnd: Express.js | Django | FastAPI | Flask
 
 Headless CMS: Sanity.io
 
