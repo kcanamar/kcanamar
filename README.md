@@ -1,6 +1,6 @@
 ### [Hello, I am Kcanamar](https://kylecanamar-portfolio.vercel.app/)
 
-Full Stack Developer, Professional Chef, Father, General Contractor, Mechanic, and Animal Lover.
+Full Stack Developer, Professional Chef, Father, General Contractor, Mechanic, and more.
 
 I have true passion for coding, software and professional development. <br><br>My hobbies include learning, wheeling(4x4 offroad), piano, running, soccer, music production, hydroponics, books, cooking, robots, MTV's The Challenge, The Circle, tabletop games.
 
