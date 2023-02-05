@@ -6,9 +6,9 @@ I have true passion for coding, software and professional development. <br><br>M
 
 ---
 
-Currently learning:  Jest | React.JS | Test Driven Development
+Currently learning: Flask | FastAPI | React.JS | Test Driven Development | 
 
-Currently Working on: New portfolio
+Currently Working on: New portfolio, RestAPI's built w/ Flask and FastAPI
 
 ---
 
@@ -16,7 +16,7 @@ OS: MacOS
 
 Languages: JavaScript | Python | HTML | CSS 
 
-FrontEnd: React.JS | Next.JS | styled-components
+FrontEnd: React.JS | Next.JS | styled-components 
 
 BackEnd: Express.js | Django | FastAPI | Flask
 
@@ -33,5 +33,5 @@ Design: Figma | Mirro
 ---
 
 
+![KCanamar's GitHub stats](https://github-readme-stats.vercel.app/api?username=kcanamar&show_icons=true&theme=nord&count_private=true)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kcanamar&langs_count=10&theme=nord&layout=compact&count_private=true)
 ![Profile badge](https://www.codewars.com/users/kcanamar/badges/small)
-
