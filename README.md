@@ -33,5 +33,5 @@ Design: Figma | Mirro
 ---
 
 
-[![Profile badge](https://www.codewars.com/users/kcanamar/badges/small)]
+![Profile badge](https://www.codewars.com/users/kcanamar/badges/small)
 
