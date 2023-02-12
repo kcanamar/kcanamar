@@ -6,9 +6,9 @@ I have true passion for coding, software and professional development. <br><br>M
 
 ---
 
-Currently learning: Flask | FastAPI | React.JS | Test Driven Development | 
+Currently learning: FastAPI | Test Driven Development | 
 
-Currently Working on: New portfolio, RestAPI's built w/ Flask and FastAPI
+Currently Working on: New portfolio, RestAPI built w/ FastAPI
 
 ---
 
