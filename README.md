@@ -6,9 +6,9 @@ I have true passion for coding, software and professional development. <br><br>M
 
 ---
 
-Currently learning: FastAPI | Test Driven Development | 
+Currently learning: Vue.js 
 
-Currently Working on: New portfolio, RestAPI built w/ FastAPI
+Currently Working on: New portfolio
 
 ---
 
