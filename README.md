@@ -6,19 +6,19 @@ I have true passion for coding, software and professional development. <br><br>M
 
 ---
 
-Currently learning: Vue.js 
+Currently learning: Vue.js | Nuxt.js | Go | Gin 
 
-Currently Working on: New portfolio
+Currently Working on: My Blog (MongoDB, Gin, Vue) 
 
 ---
 
 OS: MacOS
 
-Languages: JavaScript | Python | HTML | CSS 
+Languages: JavaScript | Python | HTML | CSS | Go
 
-FrontEnd: React.JS | Next.JS | styled-components 
+FrontEnd: React.JS | Next.JS | styled-components | Mui | Materialize | Tailwind
 
-BackEnd: Express.js | Django | FastAPI | Flask
+BackEnd: Express.js | Django | FastAPI | Flask | Gin | GORM | Mongoose
 
 Headless CMS: Sanity.io
 
