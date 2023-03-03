@@ -15,7 +15,7 @@ Currently Working on: My Blog (Nuxt.js)
 
 OS: MacOS
 
-Languages: JavaScript | Python | HTML | CSS | Go
+Languages: JavaScript | Python | HTML | CSS | Go | Sass | EJS
 
 FrontEnd: React.JS | Next.JS | styled-components | Mui | Materialize | Tailwind | Vue
 
