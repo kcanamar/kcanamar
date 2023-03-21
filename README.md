@@ -7,23 +7,23 @@ I have true passion for coding, software and professional development. <br><br>M
 
 ---
 
-Currently learning: Nuxt.js
+Currently learning: Expo | React-Native | SupaBase
 
-Currently Working on: My Blog (Nuxt.js)
+Currently Working on: Expo SupaBase Fitness App
 
 ---
 
 OS: MacOS
 
-Languages: JavaScript | Python | HTML | CSS | Go | Sass | EJS
+Languages: JavaScript | Python | HTML | CSS | Go | Sass | EJS | Jinga
 
-FrontEnd: React.JS | Next.JS | styled-components | Mui | Materialize | Tailwind | Vue
+FrontEnd: React.JS | Next.JS | styled-components | Mui | Materialize | Tailwind | Vue | Nuxt | Expo | React-Native
 
 BackEnd: Express.js | Django | FastAPI | Flask | Gin | GORM | Mongoose | Prisma
 
 Headless CMS: Sanity.io
 
-Database: MongoDB | PostgreSQL | SQLite3 | Bit.io
+Database: MongoDB | PostgreSQL | SQLite3 | Bit.io | SupaBase
 
 DevOps: AWS S3 
 
