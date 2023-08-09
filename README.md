@@ -3,33 +3,33 @@
 
 Full Stack Developer, Professional Chef, Father, General Contractor, Mechanic, and more.
 
-I have true passion for coding, software and professional development. <br><br>My hobbies include learning, wheeling(4x4 offroad), piano, running, soccer, music production, hydroponics, books, cooking, robots, MTV's The Challenge, The Circle, tabletop games.
+I have true passion for coding, software and professional development. <br><br>My hobbies include learning, wheeling(4x4 offroading), piano, hydroponics, cooking, robots, tabletop games.
 
 ---
 
-Currently learning: Expo | React-Native | SupaBase
+Currently learning: Astro, Builder.io
 
-Currently Working on: Expo SupaBase Fitness App
+Currently Working on: Freelance project
 
 ---
 
 OS: MacOS
 
-Languages: JavaScript | Python | HTML | CSS | Go | Sass | EJS | Jinga
+Languages: JavaScript | Python | HTML | CSS | Go | Sass | EJS | Jinga 
 
-FrontEnd: React.JS | Next.JS | styled-components | Mui | Materialize | Tailwind | Vue | Nuxt | Expo | React-Native
+FrontEnd: React | Next | styled-components | MUI | Materialize | Tailwind | Vue | Nuxt | Expo | React-Native | HTMX
 
-BackEnd: Express.js | Django | FastAPI | Flask | Gin | GORM | Mongoose | Prisma
+BackEnd: Express | Django | FastAPI | Flask | Gin | GORM | Mongoose | Prisma | Supabase | Drizzle
 
-Headless CMS: Sanity.io
+Headless CMS: Sanity.io | Builder.io
 
 Database: MongoDB | PostgreSQL | SQLite3 | Bit.io | SupaBase
 
-DevOps: AWS S3 
+DevOps: AWS | Docker  
 
-API: REST 
+API: REST | tRPC
 
-Design: Figma | Mirro
+Design/Team Tools: Figma | Mirro | Slack | Zoom
 
 ---
 
