@@ -25,7 +25,7 @@ Cloud Tooling: S3
 
 API Patterns: REST
 
-Productivity Tools: Asana | Slack | Obsidian | Figma | Miro
+Productivity Tools: Asana | Zoom | GSuite | Slack | Obsidian | Figma | Miro
 
 ---
 
