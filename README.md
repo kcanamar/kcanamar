@@ -1,35 +1,31 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kcanamar&langs_count=10&theme=nord&layout=compact&count_private=true)
-### [Hello, I am Kcanamar](https://kylecanamar-portfolio.vercel.app/)
+### [Hello, I am Kyle](https://kcanamar-portfolio.vercel.app/)
 
-Full Stack Developer, Professional Chef, Father, General Contractor, Mechanic, and more.
+What do you want to know? Find me on [LinkedIn](https://www.linkedin.com/in/kyle-canamar/).
 
-I have true passion for coding, software and professional development. <br><br>My hobbies include learning, wheeling(4x4 offroading), piano, hydroponics, cooking, robots, tabletop games.
-
----
-
-Currently learning: Astro, Builder.io
-
-Currently Working on: Freelance project
+Passionate about full stack development, startup then scale enterprise architecture solutions. <br>Why do we develop the way we do?
 
 ---
 
-OS: MacOS
+Currently learning: Pulumi 
 
-Languages: JavaScript | Python | HTML | CSS | Go | Sass | EJS | Jinga 
+Currently Working on: Freelance project Stack => [ Astro, Tailwind, Netlfiy ]
 
-FrontEnd: React | Next | styled-components | MUI | Materialize | Tailwind | Vue | Nuxt | Expo | React-Native | HTMX
+---
 
-BackEnd: Express | Django | FastAPI | Flask | Gin | GORM | Mongoose | Prisma | Supabase | Drizzle
+Languages: JavaScript | Python | HTML | CSS | Go | SQL | bash 
 
-Headless CMS: Sanity.io | Builder.io
+FrontEnd Tools: Astro | React | Next | Vue | Nuxt | Expo | React-Native | Qwik 
 
-Database: MongoDB | PostgreSQL | SQLite3 | Bit.io | SupaBase
+BackEnd Tools: Express | Django | Gin | Elysia | Echo | Flask | FastAPI 
 
-DevOps: AWS | Docker  
+Content Management Systems: Sanity.io | Builder.io 
 
-API: REST | tRPC
+Cloud Tooling: S3 
 
-Design/Team Tools: Figma | Mirro | Slack | Zoom
+API Patterns: REST
+
+Productivity Tools: Asana | Slack | Obsidian | Figma | Miro
 
 ---
 
