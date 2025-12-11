@@ -1,31 +1,31 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kcanamar&langs_count=10&theme=nord&layout=compact&count_private=true)
-### [Hello, I am Kyle](https://kcanamar-portfolio.vercel.app/)
+### [Hello, I am Kyle](https://www.linkedin.com/in/kyle-canamar/)
 
-What do you want to know? Find me on [LinkedIn](https://www.linkedin.com/in/kyle-canamar/).
+What do you want to know? Connect with me on [LinkedIn](https://www.linkedin.com/in/kyle-canamar/).
 
-Passionate about full stack development, startup then scale enterprise architecture solutions. <br>Why do we develop the way we do?
-
----
-
-Currently learning: Pulumi 
-
-Currently Working on: Freelance project Stack => [ Astro, Tailwind, Netlfiy ]
+Passionate about full stack development, startup then scale enterprise architecture solutions. <br>Why do we develop the way we do? 
 
 ---
 
-Languages: JavaScript | Python | HTML | CSS | Go | SQL | bash 
+Currently learning: Zig 
 
-FrontEnd Tools: Astro | React | Next | Vue | Nuxt | Expo | React-Native | Qwik 
+Currently Working on: Zig CLI app, ARDI (internal maintenance tool)
 
-BackEnd Tools: Express | Django | Gin | Elysia | Echo | Flask | FastAPI 
+---
+
+Languages: JavaScript | Python | HTML | CSS | GO | SQL | bash | Zig
+
+FrontEnd Tools: HTMX | Astro | React | Next | Vue | Nuxt | Expo | React-Native | Qwik 
+
+BackEnd Tools: Pocketbase | SQLite | Turso | MongoDB | PostgreSQL | Express | Django | Gin | Elysia | Echo | Flask | FastAPI 
 
 Content Management Systems: Sanity.io | Builder.io 
 
-Cloud Tooling: S3 
+Cloud Tooling: SST | PULUMI | AWS | Docker 
 
-API Patterns: REST
+API Patterns: gRPC | GRAPHQL | REST
 
-Productivity Tools: Asana | Zoom | GSuite | Slack | Obsidian | Figma | Miro
+Productivity Tools: Claude | Ghosty | Tmux | NeoVim | Asana | Zoom | GSuite | Slack | Obsidian | Figma | Miro
 
 ---
 
