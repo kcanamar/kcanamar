@@ -1,4 +1,4 @@
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kcanamar&langs_count=10&theme=nord&layout=compact&count_private=true)
+
 ### [Hello, I am Kyle](https://www.linkedin.com/in/kyle-canamar/)
 
 What do you want to know? Connect with me on [LinkedIn](https://www.linkedin.com/in/kyle-canamar/).
@@ -28,7 +28,3 @@ API Patterns: gRPC | GRAPHQL | REST
 Productivity Tools: Claude | Ghosty | Tmux | NeoVim | Asana | Zoom | GSuite | Slack | Obsidian | Figma | Miro
 
 ---
-
-
-![KCanamar's GitHub stats](https://github-readme-stats.vercel.app/api?username=kcanamar&show_icons=true&theme=nord&count_private=true)
-![Profile badge](https://www.codewars.com/users/kcanamar/badges/small)
